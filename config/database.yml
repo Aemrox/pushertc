@@ -5,7 +5,6 @@ development: &default
   adapter: postgresql
   encoding: unicode
   database: pushertc_development
-  username: postgres
   pool: 5
   timeout: 5000
 
